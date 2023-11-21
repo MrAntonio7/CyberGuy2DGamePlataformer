@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Cursor
+  - Music
+  - Coin
+  - Canvas
+  - Vida
+  - VidaUI
+  - Datos
+  - Bullet
+  - Enemigo
+  - Caida
+  - DatosNivel
+  - GameOverText
+  - EnemigoFly
+  - TopEnemyDamage
+  - BotonPausa
+  - MenuPausa
+  - EvilRobot
+  - bulletEnemy
+  - puntoDisparoEnemy
+  - TheBoss
+  - BarraDeVida
+  - bulletBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer_01
+    uniqueID: 1186039123
+    locked: 0

@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: c601fdb2558193b42ae115e2f64bc9e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2418
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6caedff56f1784ab55d85b7bc194b5
+      internalID: -1565123885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2352
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3f6ecf4c9c23408dd3eb2f2f045fe
+      internalID: 133576770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2352
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e1ded35fe0bc4e8748fcb29e39dc7
+      internalID: -243025750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2352
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf1712e88161b4492d799060f2d0d3
+      internalID: -1125972849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2352
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5b6b40a42f204693c48ab170dd527
+      internalID: 368197879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2418
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6cc0858abb0e4a9c403d20e2968dc
+      internalID: -607230168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f149d4a74b814bad4962c0ed11c8f
+      internalID: -1674128217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1724
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d804d81b1c17f954c90b27e21e4b5623
+      internalID: -800498651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1724
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbba1c6c25e4c4980a2a83b26cd5a4
+      internalID: -1581554110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1724
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78545b1c316d888479c60d728001bc0d
+      internalID: 672691387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1177
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfdbcd16054b2f42a8ac2dd567a4333
+      internalID: -1448358891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1177
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55610fa96fbc0fe46a8b625ab7b55a20
+      internalID: -1938743358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1177
+        width: 135
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64700460f4f1c64a95007c02df77ab9
+      internalID: -113681182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1177
+        width: 140
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab3fdb4f39c494fb5b46e1c61c50b1
+      internalID: 1383623282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1110
+        width: 136
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81e4cb0a9111f498b1560f7759459b
+      internalID: 1917149064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_103
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 604
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7b9b73170464439bd1824c75d3fb4
+      internalID: 580737915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_104
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 604
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f1ee583cf1844db4907fb289434ea
+      internalID: -1909808989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052aa1036737d4448e35e73c023d392
+      internalID: -591731239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_106
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 538
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b21f41991fba4fb61ef4579760bb2
+      internalID: 1502419864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280de85227d5e44dba90cde169902ff
+      internalID: -454703225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_120
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2418
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c439f9cb4a8a2b5469989b588ca972d0
+      internalID: -2138911234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_121
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2418
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03a85b47d90f0a4ba9ddf764150e08d
+      internalID: 1003183130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_122
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2418
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c003621521c8e43b5ceed78363c3d2
+      internalID: -914719304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2418
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54679e6f1cc3adb4bb03f462c4e900f3
+      internalID: 1191419635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_124
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2418
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f717c41d32c934aa13fe839a28df10
+      internalID: -395352501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_125
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2418
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33a33c90d33874ca26edb60917a0b5
+      internalID: -545356601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2352
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cdff3f4659d414bb73df683d11d4fc
+      internalID: -198831795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_127
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2352
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236937fc075529f428851918e57b27f4
+      internalID: -1132646354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_128
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2352
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec85f744bd007a4088038e1d19045ec
+      internalID: 526568640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2352
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dcf71e1123f434f818ced59235f807
+      internalID: -84403444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 604
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2399a74c449ecc4ea4cb3f3a54ba567
+      internalID: 7489244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3393d6c6d05ca4e94a3ceda3476751
+      internalID: 986880305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 604
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85c0ba0072702e4d95bf49cc3d5325b
+      internalID: -216858946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 604
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aca443d64c37941842777e8f783112
+      internalID: -566483622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 604
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ca5ad793a4eb42b59cb2687d715fa
+      internalID: -1991495464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 604
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee40643741e71bf4384c7d7ca7b47fe0
+      internalID: -801615809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 538
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb255feb0786fa14783534eb856f1fe0
+      internalID: -896086947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 538
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ed60cad953d643ae33cd8d05401d7
+      internalID: 10448207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 538
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e10844d8273d5489cf9943dc7a5890
+      internalID: -1090836664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 538
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3642cf27a015c42b63030352ddb82f
+      internalID: 1714417041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 538
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf35abec5ab3b6a47b896acf648223cd
+      internalID: 2090989500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_0: -1565123885
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_1: 133576770
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_10: -566483622
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_100: 1072500710
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_101: 1013402993
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_102: -844808826
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_103: 580737915
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_104: -1909808989
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_105: -591731239
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_106: 1502419864
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_107: -454703225
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_108: -941619641
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_109: -1203806796
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_11: -1991495464
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_110: -1434900814
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_111: -2094706973
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_112: 199296547
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_113: -10133482
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_114: -2051931701
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_115: -1777138122
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_116: 1777242174
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_117: -645470618
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_118: 32491492
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_119: 1307002811
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_12: -801615809
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_120: -2138911234
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_121: 1003183130
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_122: -914719304
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_123: 1191419635
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_124: -395352501
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_125: -545356601
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_126: -198831795
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_127: -1132646354
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_128: 526568640
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_13: -896086947
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_14: 10448207
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_15: -1090836664
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_16: 1714417041
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_17: 2090989500
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_18: -334892763
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_19: 1008696787
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_2: -243025750
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_20: 1415043696
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_21: -292330358
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_22: -545462034
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_23: 1525642498
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_24: 710216020
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_25: 1353578419
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_26: -1083098110
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_27: 587851300
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_28: -711600916
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_29: -1973553527
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_3: -1125972849
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_30: -206417290
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_31: 99743886
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_32: 1530192295
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_33: -1269690019
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_34: -1609951560
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_35: -886737951
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_36: 477634252
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_37: -1976382947
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_38: 556522104
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_39: 1840121749
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_4: 368197879
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_40: -864682326
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_41: -554229511
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_42: -1518588649
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_43: 1487443447
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_44: -235522976
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_45: -287381849
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_46: -1487173068
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_47: 2072562377
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_48: -1674128217
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_49: -800498651
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_5: -607230168
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_50: -1581554110
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_51: 672691387
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_52: -1550176354
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_53: 458828462
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_54: -1938601970
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_55: -1355591950
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_56: 1287651147
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_57: 2003499465
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_58: -920140335
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_59: 1734423291
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_6: -84403444
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_60: -1504760468
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_61: 498501556
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_62: -1674401583
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_63: 2080616562
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_64: 1155528285
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_65: 886478931
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_66: 1325747558
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_67: -578377779
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_68: -539966860
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_69: -721945393
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_7: 7489244
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_70: -496139480
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_71: 799133073
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_72: -1717186358
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_73: 939738593
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_74: 520165150
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_75: 126287871
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_76: -1448358891
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_77: -1938743358
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_78: -113681182
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_79: 1383623282
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_8: 986880305
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_80: 1917149064
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_81: -823819163
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_82: -605944739
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_83: -1098410000
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_84: 1407814731
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_85: -1547955383
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_86: 102580036
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_87: -1797465384
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_88: 1870302638
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_89: 1540543712
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_9: -216858946
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_90: -1819632441
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_91: -2041588375
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_92: -1172240060
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_93: 1415428017
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_94: 1146834512
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_95: -352832499
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_96: -1118809928
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_97: -1315718128
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_98: 373537183
+      Neo Geo NGCD - Metal Slug 5 - Machinegun Unit_99: 523938203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
